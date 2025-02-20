@@ -20,23 +20,23 @@ The generator and discriminator are constantly competing with each other.The gen
 ## Code Structure
 
 ### 1. **Libraries and Dataset**
-- **OpenCV**: Captures video input.
 - **Tensorflow**: Trains the neural Network.
 - **MatplotLib**: Plots all graphs.
-- **Imghdr**: Controls the image selection.
 - **Numpy**: Performs complex calculations.
-- **Os**: Handles files and directories.
 
 ### 2. **Generator**
+This 
 
-![image]()
+![image](https://github.com/user-attachments/assets/e1205056-5da9-40d6-a42d-b2149492c67b)
+
+
 
 ### 3. **Discriminator**
 
 
 Model Summary : 
 
-![image]()
+![image](https://github.com/user-attachments/assets/ecc045ca-6abe-4ff5-a545-0f0327917f40)
 
 ### 4. **Training Loop**
 ---
