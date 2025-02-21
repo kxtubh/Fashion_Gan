@@ -25,8 +25,7 @@ The generator and discriminator are constantly competing with each other.The gen
 - **Numpy**: Performs complex calculations.
 
 ### 2. **Generator**
-This 
-
+This Consists of one convolution block and two seperate upsampling blocks.The upsampling blocks adds more non linearity and makes the images generated a lot more clearer.
 ![image](https://github.com/user-attachments/assets/e1205056-5da9-40d6-a42d-b2149492c67b)
 
 
@@ -39,6 +38,9 @@ Model Summary :
 ![image](https://github.com/user-attachments/assets/ecc045ca-6abe-4ff5-a545-0f0327917f40)
 
 ### 4. **Training Loop**
+
+
+The main issue with training GANs is the training. GANs are always prone to overfitting data
 ---
 
 ## Usage Instructions 
